@@ -1,5 +1,6 @@
 # Tubo
 
+[![Tubo Build Status](https://travis-ci.org/am-kantox/tubo.svg?branch=master)](https://travis-ci.org/am-kantox/tubo)  
 **`Tubo`** is a tiny module providing a wrapper functionality for functions
 to easy chain those into pipelines.
 
